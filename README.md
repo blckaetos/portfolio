@@ -46,7 +46,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-o
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 
-<img align="left" alt="java" width="30px" style="padding-right:120px;" 
+<img align="left" alt="java" width="90px" style="padding-right:50px;" 
 src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_bf8095de95175316574d734b1f2b2c48/sumo-logic.png" />
 
 <img align="left" alt="java" width="90px" style="padding-right:50px;" 
