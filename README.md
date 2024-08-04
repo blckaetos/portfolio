@@ -10,7 +10,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terrafo
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" 
+<img align="left" alt="java" width="60px" style="padding-right:40px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original-wordmark.svg" />
           
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
