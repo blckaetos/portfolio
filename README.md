@@ -40,13 +40,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbuck
 
 <br />
 
-<img align="left" alt="java" width="30px" style="padding-right:10px;" 
+<img align="left" alt="java" width="20px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
 
-<img align="left" alt="java" width="30px" style="padding-right:10px;" 
+<img align="left" alt="java" width="20px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 
-<img align="left" alt="java" width="120px" style="padding-right:50px;" 
+<img align="left" alt="java" width="90px" style="padding-right:50px;" 
 src="https://www.observeinc.com/wp-content/themes/observe-rdc-2023/img/observe-logo-black.svg" />
 
 <img align="left" alt="java" width="120px" style="padding-right:50px;" 
