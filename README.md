@@ -3,6 +3,8 @@ https://blckaetos.github.io/mctantay.github.io/
 
 ### Technical Skills
 
+Platform and Repositories
+
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
@@ -44,7 +46,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-origina
 <br />
 
 
-Monitoring and Tools
+Monitoring tools and other utilities
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
