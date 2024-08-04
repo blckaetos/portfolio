@@ -47,6 +47,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-o
 <img align="left" alt="java" width="20px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 
+<br />
+<img align="left" alt="java" width="90px" style="padding-right:40px;" 
+src="https://bomitsolutions.co.uk/wp-content/uploads/symantec-partner-logo.png" />
+
 <img align="left" alt="java" width="90px" style="padding-right:40px;" 
 src="https://www.observeinc.com/wp-content/themes/observe-rdc-2023/img/observe-logo-black.svg" />
 
