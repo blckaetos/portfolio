@@ -44,8 +44,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-origina
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 
-<img align="left" alt="java" width="60px" style="padding-right:50px;" 
+<img align="left" alt="java" width="60px" style="padding-right:90px;" 
 src="https://www.observeinc.com/wp-content/themes/observe-rdc-2023/img/observe-logo-black.svg" />
+
+
+
 
 #
 
