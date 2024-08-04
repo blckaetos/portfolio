@@ -59,13 +59,3 @@ src="https://bomitsolutions.co.uk/wp-content/uploads/symantec-partner-logo.png" 
 src="https://www.pingdom.com/wp-content/uploads/2023/07/SW_Logo_Division_Pingdom_Web_Orange.svg">
 
 
-
-
-### Work Experience
-Test program
-- new 1
-- new 2
-
-### Projects
-
-
