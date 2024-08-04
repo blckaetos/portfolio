@@ -26,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-origi
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original-wordmark.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" 
+<img align="left" alt="java" width="20px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
 
 
