@@ -1,6 +1,6 @@
 # MIGUELITO CALDERON TANTAY
 
-https://blckaetos.github.io/mctantay.github.io/
+https://blckaetos.github.io/portfolio
 
 ### CAREER OBJECTIVES
 To lead and further my professional career with an executive level management position. And provide solutions to guide a competitive growing company to a business success.
