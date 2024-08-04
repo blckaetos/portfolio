@@ -23,6 +23,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-ori
 <img align="left" alt="java" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 
+<br />
+
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
@@ -38,9 +40,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" /> 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-
-<br />
-<br />
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
