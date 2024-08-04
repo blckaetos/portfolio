@@ -1,7 +1,7 @@
 # Devops Engineer
 https://blckaetos.github.io/mctantay.github.io/
 
-### DevOps tools
+### Technical Skills
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" />
@@ -32,8 +32,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-ori
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
-<br />
-
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
@@ -41,6 +39,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbuck
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
+
+<br />
+<br />
+### Monitoring and Tools
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
