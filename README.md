@@ -1,7 +1,6 @@
-# portfolio
+# Devops Engineer
 https://blckaetos.github.io/mctantay
 
-# Devops Engineer
 
 # Education
 
