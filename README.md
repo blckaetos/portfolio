@@ -1,6 +1,10 @@
 # Devops Engineer
 https://blckaetos.github.io/mctantay.github.io/
 
+### Languages and Tools
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
+
 
 # Education
 
@@ -10,3 +14,5 @@ Test program
 - new 2
 
 ### Projects
+
+
