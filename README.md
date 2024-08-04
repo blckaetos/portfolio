@@ -1,5 +1,9 @@
-# Devops Engineer
+# MIGUELITO CALDERON TANTAY
+# CLOUDOPS ENGINEER (DEVOPS)
 https://blckaetos.github.io/mctantay.github.io/
+
+### CAREER OBJECTIVES
+To lead and further my professional career with an executive level management position. And provide solutions to guide a competitive growing company to a business success.
 
 ### Technical Skills
 
