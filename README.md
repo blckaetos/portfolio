@@ -47,7 +47,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-origina
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 <img align="left" alt="java" width="80px" style="padding-right:10px;" 
 src="https://www.observeinc.com/wp-content/themes/observe-rdc-2023/img/observe-logo-black.svg" />
-<img align="left" alt="java" width="99px" style="padding-right:15px;" 
+<img align="left" alt="java" width="99px" style="padding-right:10px;" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/22/Symantec_logo10.svg" />
 <img align="left" alt="java" width="99px" style="padding-right:15px;" 
 src="https://www.pingdom.com/wp-content/uploads/2023/07/SW_Logo_Division_Pingdom_Web_Orange.svg">
