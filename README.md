@@ -62,8 +62,8 @@ src="https://www.pingdom.com/wp-content/uploads/2023/07/SW_Logo_Division_Pingdom
 <br />
 
 
+<br />
 
-# Education
 
 
 ### Work Experience
