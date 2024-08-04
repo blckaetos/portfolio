@@ -49,9 +49,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-origi
 src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_bf8095de95175316574d734b1f2b2c48/sumo-logic.png" />
 <img align="left" alt="java" width="90px" style="padding-right:50px;" 
 src="https://www.observeinc.com/wp-content/themes/observe-rdc-2023/img/observe-logo-black.svg" />
-<img align="left" alt="java" width="100x" style="padding-right:50px;" 
+<img align="left" alt="java" width="90x" style="padding-right:90px;" 
 src="https://bomitsolutions.co.uk/wp-content/uploads/symantec-partner-logo.png" />
-<img align="left" alt="java" width="100px" style="padding-right:50px;" 
+<img align="left" alt="java" width="90px" style="padding-right:90px;" 
 src="https://www.pingdom.com/wp-content/uploads/2023/07/SW_Logo_Division_Pingdom_Web_Orange.svg">
 
 
