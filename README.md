@@ -43,13 +43,13 @@ src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_
 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" 
+<img align="left" alt="java" width="20px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:10px;" 
+<img align="left" alt="java" width="50px" style="padding-right:10px;" 
 src="https://www.observeinc.com/wp-content/themes/observe-rdc-2023/img/observe-logo-black.svg" />
-<img align="left" alt="java" width="30px" style="padding-right:90px;" 
+<img align="left" alt="java" width="50px" style="padding-right:90px;" 
 src="https://bomitsolutions.co.uk/wp-content/uploads/symantec-partner-logo.png" />
-<img align="left" alt="java" width="30px" style="padding-right:90px;" 
+<img align="left" alt="java" width="50px" style="padding-right:90px;" 
 src="https://www.pingdom.com/wp-content/uploads/2023/07/SW_Logo_Division_Pingdom_Web_Orange.svg">
 
 
