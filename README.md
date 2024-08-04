@@ -40,20 +40,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" /> 
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
-
 <img align="left" alt="java" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 
+<br />
+
 <img align="left" alt="java" width="20px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
-
-<br />
 <img align="left" alt="java" width="90px" style="padding-right:40px;" 
 src="https://bomitsolutions.co.uk/wp-content/uploads/symantec-partner-logo.png" />
-
 <img align="left" alt="java" width="90px" style="padding-right:40px;" 
 src="https://www.observeinc.com/wp-content/themes/observe-rdc-2023/img/observe-logo-black.svg" />
-
 <img align="left" alt="java" width="100px" style="padding-right:50px;" 
 src="https://www.pingdom.com/wp-content/uploads/2023/07/SW_Logo_Division_Pingdom_Web_Orange.svg">
 
